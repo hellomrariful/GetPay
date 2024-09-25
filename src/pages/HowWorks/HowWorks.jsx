@@ -2,7 +2,7 @@ import document from "../../assets/Icon/Document.svg";
 import plus from "../../assets/Icon/Plus.svg";
 import tick from "../../assets/Icon/Tick Square.svg";
 
-const HowitWorks = () => {
+const HowWorks = () => {
   return (
     <section>
       <h1 className="text-black text-5xl font-semibold my-16">How it Works</h1>
@@ -65,4 +65,4 @@ const HowitWorks = () => {
   );
 };
 
-export default HowitWorks;
+export default HowWorks;

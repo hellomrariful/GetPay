@@ -1,14 +1,13 @@
-import './App.css'
-import Header from './pages/Header/Header'
-import HowitWorks from './pages/HowitWorks/HowitWorks'
+import "./App.css";
+import Header from "./pages/Header/Header";
+import HowWorks from "./pages/HowWorks/HowWorks";
 
 function App() {
-
   return (
     <div>
-     <Header />
-     <HowitWorks />
+      <Header />
+      <HowWorks />
     </div>
-  )
+  );
 }
-export default App
+export default App;
