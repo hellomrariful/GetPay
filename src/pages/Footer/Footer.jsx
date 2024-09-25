@@ -17,12 +17,7 @@ const Footer = () => {
                 <h2 className="text-2xl font-bold tracking-tighter text-white">
                   GetPay
                 </h2>
-                <img
-                  loading="lazy"
-                  src="https://cdn.builder.io/api/v1/image/assets/TEMP/e2d0e9402355905be0e5e37377349dfa2a7850f4f8db640cf22e199b57c8ad00?placeholderIfAbsent=true&apiKey=2295da1854f74f068ca9f85d7412456b"
-                  alt=""
-                  className="object-contain ml-5 aspect-[9.17] w-[46px] max-md:ml-2.5"
-                />
+                
                 <div className="flex gap-4 self-stretch mt-11 max-md:mt-10">
                   <div className="flex flex-col my-auto">
                     <img

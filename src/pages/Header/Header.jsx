@@ -9,7 +9,7 @@ const Header = () => {
   return (
     <header className="relative -mt-32">
       {/* Navbar */}
-      <nav className="w-full container mx-auto absolute top-0 z-10 mt-5 md:mt-0">
+      <nav className="w-full container mx-auto absolute top-0 z-20 mt-5 md:mt-0">
         <div className="flex flex-wrap items-center justify-between mx-auto pt-4 px-4">
           <a href="/" className="flex items-center space-x-3 rtl:space-x-reverse">
             <img src={Logo} className="h-8" alt="GetPay Logo" />
