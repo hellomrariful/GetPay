@@ -1,4 +1,5 @@
 import "./App.css";
+import Download from "./pages/Download/Download";
 import Header from "./pages/Header/Header";
 import HowWorks from "./pages/HowWorks/HowWorks";
 import LearnMore from "./pages/LearnMore/LearnMore";
@@ -11,6 +12,7 @@ function App() {
       <HowWorks />
       <ManageMoney />
       <LearnMore />
+      <Download />
     </div>
   );
 }
