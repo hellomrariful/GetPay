@@ -4,8 +4,8 @@ import tick from "../../assets/Icon/Tick Square.svg";
 
 const HowWorks = () => {
   return (
-    <section>
-      <h1 className="text-black text-5xl font-semibold my-16">How it Works</h1>
+    <section className="container mx-auto">
+      <h1 className="text-black text-5xl font-semibold my-16 text-center">How it Works</h1>
       <div className="grid md:grid-cols-3 justify-center md:space-x-4 md:space-y-0 space-y-6">
         <div className="max-w-[328px]">
           <div className="grid grid-cols-1 pl-7 py-12 w-full bg-rose-50 rounded-3xl">

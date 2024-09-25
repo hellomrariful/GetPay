@@ -1,6 +1,7 @@
+
 const Download = () => {
   return (
-    <div>
+    <div className=" container mx-auto">
       <section className="flex flex-col rounded-none mt-20">
         <div className="flex flex-col justify-center items-center px-20 py-20 w-full bg-cyan-50 rounded-[32px] max-md:px-5 max-md:max-w-full">
           <div className="flex flex-col max-w-full w-[649px]">
@@ -8,8 +9,7 @@ const Download = () => {
               Download Our Mobile App
             </h2>
             <p className="mt-4 text-base font-medium leading-8 text-center text-neutral-400 max-md:mr-2.5 max-md:max-w-full">
-              Amet minim mollit non deserunt ullamco est sit aliqua dolor do
-              amet sint. Velit officia consequat duis enim velit mollit.
+              Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.
             </p>
             <div className="flex gap-5 self-center mt-12 max-w-full w-[368px] max-md:mt-10">
               <a

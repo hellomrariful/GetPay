@@ -19,7 +19,7 @@ const LearnMore = () => {
                   officia consequat duis enim velit mollit.
                 </p>
                 {/* ExploreButton Button */}
-                <button className="px-12 md:w-1/2 w-2/5 py-4 mt-8 font-bold tracking-tight text-center text-white bg-gradient-to-r from-[#00CDE2] to-[#0087A3] rounded-[40px] max-md:px-5">
+                <button className="px-12 md:w-1/2 w-2/6 py-4 mt-8 font-bold tracking-tight text-center text-white bg-gradient-to-r from-[#00CDE2] to-[#0087A3] rounded-[40px] max-md:px-5">
   Explore Now
 </button>
               </div>
