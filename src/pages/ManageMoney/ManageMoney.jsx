@@ -29,7 +29,7 @@ const ManageMoney = () => {
                     officia consequat duis enim velit mollit.
                   </p>
 
-                  {/* ExploreButton merged here */}
+                  {/* ExploreButton Button */}
                   <button className="px-12 py-4 mt-8 font-bold tracking-tight text-center text-white bg-gradient-to-r from-[#00CDE2] to-[#0087A3] rounded-[40px] max-md:px-5">
   Explore Now
 </button>
