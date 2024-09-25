@@ -8,17 +8,17 @@ import ManageMoney from "./pages/ManageMoney/ManageMoney";
 
 function App() {
   return (
-    <div>
-      <div>
+    <div className="app-container">
+      <div className="content-wrapper">
         <Header />
         <HowWorks />
         <ManageMoney />
         <LearnMore />
         <Download />
-        <Footer />
       </div>
-      
+      <Footer />
     </div>
   );
 }
+
 export default App;
