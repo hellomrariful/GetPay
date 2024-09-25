@@ -8,7 +8,7 @@ const ManageMoney = () => {
               <div className="flex flex-col w-6/12 max-md:ml-0 max-md:w-full">
                 <img
                   loading="lazy"
-                  src="https://cdn.builder.io/api/v1/image/assets/TEMP/a0b9c34d826888fc6801e5ff447990ff1294c34d1dc02e2097e52528bde6fc02?placeholderIfAbsent=true&apiKey=2295da1854f74f068ca9f85d7412456b"
+                  src="https://i.postimg.cc/fb1qqtFy/image.png"
                   alt="Money management illustration"
                   className="object-contain grow w-full rounded-none aspect-[0.81] max-md:mt-10 max-md:max-w-full"
                 />

@@ -5,12 +5,14 @@ import Header from "./pages/Header/Header";
 import HowWorks from "./pages/HowWorks/HowWorks";
 import LearnMore from "./pages/LearnMore/LearnMore";
 import ManageMoney from "./pages/ManageMoney/ManageMoney";
+import Trusted from "./pages/Trusted/Trusted";
 
 function App() {
   return (
     <div className="app-container">
       <div className="content-wrapper">
         <Header />
+        <Trusted />
         <HowWorks />
         <ManageMoney />
         <LearnMore />
