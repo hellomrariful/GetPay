@@ -2,7 +2,7 @@
 const Header = () => {
     return (
         <div>
-            Navbar and Banner
+            Navbar and Banner section
         </div>
     );
 };
