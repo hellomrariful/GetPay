@@ -1,3 +1,7 @@
+import call from '../../assets/Icon/Call.svg';
+import message from '../../assets/Icon/Message.svg';
+import location from '../../assets/Icon/location.svg';
+
 const Footer = () => {
   const companyLinks = ["Home", "About", "Blog", "Pages"];
   const helpLinks = [
@@ -22,13 +26,13 @@ const Footer = () => {
                   <div className="flex flex-col my-auto">
                     <img
                       loading="lazy"
-                      src="https://cdn.builder.io/api/v1/image/assets/TEMP/c7079281079e3b223ee2ec11cee4e2e78f9899159d926bf2407951e1ff9dd241?placeholderIfAbsent=true&apiKey=2295da1854f74f068ca9f85d7412456b"
+                      src={call}
                       alt=""
                       className="object-contain w-6 aspect-square"
                     />
                     <img
                       loading="lazy"
-                      src="https://cdn.builder.io/api/v1/image/assets/TEMP/c8f59def6121ccfef5e937781038d4b970a07bae3d177657bc5fbbb7bc4e5428?placeholderIfAbsent=true&apiKey=2295da1854f74f068ca9f85d7412456b"
+                      src={message}
                       alt=""
                       className="object-contain mt-12 w-6 aspect-square max-md:mt-10"
                     />
@@ -117,7 +121,7 @@ const Footer = () => {
           <div className="flex flex-auto gap-4">
             <img
               loading="lazy"
-              src="https://cdn.builder.io/api/v1/image/assets/TEMP/2b1b64845bbcc56acf63684f883ba38a05623719e84b1f774ea80fca4e94d2e5?placeholderIfAbsent=true&apiKey=2295da1854f74f068ca9f85d7412456b"
+              src={location}
               alt=""
               className="object-contain shrink-0 my-auto w-6 aspect-square"
             />

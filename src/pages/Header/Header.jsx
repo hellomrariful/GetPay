@@ -84,7 +84,7 @@ const Header = () => {
               className="rounded-lg w-full"
             />
 
-            <div className="absolute top-1/2 right-0 transform translate-x-1/4 -translate-y-1/2 bg-gradient-to-r from-pink-400 to-red-400 p-4 md:p-6 rounded-lg shadow-lg">
+            <div className="absolute top-1/2 right-0 md:mr-0 mr-10 transform translate-x-1/4 -translate-y-1/2 bg-gradient-to-r from-pink-400 to-red-400 p-6 md:p-6 rounded-lg shadow-lg">
               <p className="text-white text-xs md:text-sm mb-2">Universal Card</p>
               <p className="text-white text-lg md:text-xl font-bold mb-4">
                 5214 4321 5678 4345
