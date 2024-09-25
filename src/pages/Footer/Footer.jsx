@@ -3,7 +3,7 @@ const Footer = () => {
     const helpLinks = ['Customer Support', 'Terms & Conditions', 'Privacy Policy'];
   
     return (
-      <footer className="flex overflow-hidden flex-col justify-center px-36 py-20 bg-zinc-900 max-md:px-5 mt-20">
+      <footer className="flex overflow-hidden flex-col justify-center px-28 py-20 bg-[#12141D] max-md:px-5 mt-20">
         <div className="flex flex-col pr-6 w-full rounded-none max-w-[1140px] max-md:pr-5 max-md:max-w-full mx-auto">
           <div className="w-full max-md:max-w-full">
             <div className="flex gap-5 max-md:flex-col">
